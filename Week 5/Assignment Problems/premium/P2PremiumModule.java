@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems.premium;
 
 import access_modifiers.assignment_problems.P2SubclassReach;
 

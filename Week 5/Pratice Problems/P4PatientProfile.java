@@ -1,4 +1,3 @@
-package access_modifiers.class_problems;
 
 // P4. PatientProfile JavaBean, Chained Constructors & Locker PIN
 // Write-once patientId (public setter, second call silently ignored).

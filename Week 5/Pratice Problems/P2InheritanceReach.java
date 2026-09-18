@@ -1,4 +1,3 @@
-package access_modifiers.class_problems;
 
 // P2. Cross-Package Inheritance Reach — main package (MediTrack module)
 // Handles 5 contexts including SUBCLASS_DIFFERENT_PACKAGE_*.

@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems;
 
 // P5. Immutable Loan Receipt & Nightly Circulation Ledger (capstone)
 // Final class, all fields final, defensive copy in/out, wither pattern,

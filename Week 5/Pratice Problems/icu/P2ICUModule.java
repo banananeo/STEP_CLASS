@@ -1,4 +1,3 @@
-package access_modifiers.class_problems.icu;
 
 import access_modifiers.class_problems.P2InheritanceReach;
 

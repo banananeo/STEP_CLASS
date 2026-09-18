@@ -1,4 +1,3 @@
-package access_modifiers.class_problems;
 
 // P5. Immutable Discharge Summary & Nightly Ledger (capstone)
 // Final class, all fields final, defensive copy in/out, wither pattern,

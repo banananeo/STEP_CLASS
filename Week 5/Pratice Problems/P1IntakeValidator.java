@@ -1,4 +1,3 @@
-package access_modifiers.class_problems;
 
 // P1. Field Visibility & Intake Validator
 // AccessRuleEngine classifies access attempts; PatientRecord validates at construction.

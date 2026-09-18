@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems;
 
 // P2. Reference Desk Subclass Reach — main package (PageTurner module)
 // Extended AccessChecker with 5 contexts + describeContext.

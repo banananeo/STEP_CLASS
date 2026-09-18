@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems;
 
 // P3. Book Copy Circulation Guard
 // All fields private; constructor rejects invalid starting count;

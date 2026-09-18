@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems;
 
 // P1. Membership Field Reach Checker
 // AccessChecker classifies access attempts; LibraryMember validates at construction.

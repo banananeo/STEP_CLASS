@@ -1,4 +1,3 @@
-package access_modifiers.assignment_problems;
 
 // P4. LibraryMember JavaBean, Chained Constructors & Security Answer
 // Write-once membershipId (public setter, second call silently ignored).

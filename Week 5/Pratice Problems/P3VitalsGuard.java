@@ -1,4 +1,3 @@
-package access_modifiers.class_problems;
 
 // P3. Vitals Monitoring Encapsulation Guard
 // All fields private; constructor reuses recordReading; getAllReadings returns defensive copy.
