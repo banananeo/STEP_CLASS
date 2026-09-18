@@ -1,4 +1,3 @@
-package inheritance_polymorphism.assignment_problems;
 
 // P4. Race-Day Announcer Board
 // announceAll loops polymorphically with StringBuilder; instanceof guards downcast to team size.

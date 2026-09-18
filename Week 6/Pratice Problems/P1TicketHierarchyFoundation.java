@@ -1,4 +1,3 @@
-package inheritance_polymorphism.class_problems;
 
 // P1. Ticket Hierarchy Foundation & Batch Registration Validator
 // EventTicket is the shared foundation with validated constructor;

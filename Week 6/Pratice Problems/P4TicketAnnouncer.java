@@ -1,4 +1,3 @@
-package inheritance_polymorphism.class_problems;
 
 // P4. Nightly Ticket Announcer
 // batchPrint loops polymorphically with StringBuilder; instanceof guards downcast to track.

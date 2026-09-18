@@ -1,4 +1,3 @@
-package inheritance_polymorphism.assignment_problems;
 
 // P1. Race Entry Foundation & Batch Bib Validator
 // RaceEntry is the shared foundation; RunnerEntry is single-inheritance specialization.

@@ -1,4 +1,3 @@
-package inheritance_polymorphism.assignment_problems;
 
 import java.util.Arrays;
 

@@ -1,4 +1,3 @@
-package inheritance_polymorphism.class_problems;
 
 // P2. Three Shapes of One Family Tree
 // PremiumWorkshopTicket extends WorkshopTicket (multilevel, 3 deep);

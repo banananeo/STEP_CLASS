@@ -1,4 +1,3 @@
-package inheritance_polymorphism.class_problems;
 
 // P5. Fest-Wide Ticket Issuance, Promo Codes & Nightly Settlement Engine
 // final ticketId from static counter; char-by-char promo validation;

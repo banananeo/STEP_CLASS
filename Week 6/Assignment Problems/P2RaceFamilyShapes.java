@@ -1,4 +1,3 @@
-package inheritance_polymorphism.assignment_problems;
 
 // P2. Three Shapes of One Race Family
 // EliteRunnerEntry extends RunnerEntry (multilevel); RelayTeamEntry extends RaceEntry (hierarchical).
