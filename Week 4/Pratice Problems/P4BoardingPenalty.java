@@ -1,4 +1,3 @@
-package constructors.class_problems;
 
 // P4. Tiered Boarding Penalty Calculator — class problems
 // Demonstrates final at class, field, and method level together.

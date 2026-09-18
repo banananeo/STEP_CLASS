@@ -1,4 +1,3 @@
-package constructors.class_problems;
 
 import java.util.Arrays;
 

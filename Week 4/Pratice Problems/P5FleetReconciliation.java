@@ -1,4 +1,3 @@
-package constructors.class_problems;
 
 // P5. Nightly Fleet Reconciliation Engine — class problems (capstone)
 // Combines constructor chaining, static block, final penalty, instanceof, null-safety, length validation.

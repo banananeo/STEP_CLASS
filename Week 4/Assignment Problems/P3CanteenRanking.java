@@ -1,4 +1,3 @@
-package constructors.assignment_problems;
 
 // P3. Canteen Trust-Score Ranking Engine — assignment
 // this for clash, chained constructor, compareTo with 3-level tie-break, hand-rolled stable sort.

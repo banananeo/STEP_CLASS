@@ -1,4 +1,3 @@
-package constructors.assignment_problems;
 
 // P4. Exam-Week Surge Fee Calculator — assignment
 // Mirrors boarding penalty: tiered brackets + floor, final at class/method/field.

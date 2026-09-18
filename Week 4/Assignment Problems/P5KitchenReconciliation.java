@@ -1,4 +1,3 @@
-package constructors.assignment_problems;
 
 // P5. Nightly Multi-Kitchen Reconciliation Engine — assignment (capstone)
 // Combines constructor chaining, static block, final surge, instanceof, null-safety, length validation.

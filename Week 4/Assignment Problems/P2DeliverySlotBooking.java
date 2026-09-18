@@ -1,4 +1,3 @@
-package constructors.assignment_problems;
 
 // P2. ASAP or Scheduled — Delivery Slot Booking — assignment
 // Two constructors linked via this(...); ASAP default typed only once.
