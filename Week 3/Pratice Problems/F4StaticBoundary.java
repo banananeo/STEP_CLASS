@@ -1,4 +1,3 @@
-package oop.class_problems;
 
 // F4. Designing the Instance/Static Boundary for a College-Wide System
 // Reproduces the all-static bug, then fixes it with a correct instance/static split.

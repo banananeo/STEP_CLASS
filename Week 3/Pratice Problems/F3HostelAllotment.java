@@ -1,4 +1,3 @@
-package oop.class_problems;
 
 // F3. Object References, Null Safety, and a Mutating Method
 // Null-safe hostel room allotment that can never throw NullPointerException.

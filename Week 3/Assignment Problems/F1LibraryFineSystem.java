@@ -1,4 +1,3 @@
-package oop.assignment_problems;
 
 // F1. From Procedural Mess to a Working Library Fine System
 public class F1LibraryFineSystem {

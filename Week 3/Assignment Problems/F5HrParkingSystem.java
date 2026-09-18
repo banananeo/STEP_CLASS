@@ -1,4 +1,3 @@
-package oop.assignment_problems;
 
 // F5. Capstone: A Small HR + Parking Allocation Mini-System
 // Composition (record HAS-A employee and HAS-A slot) + inheritance + null safety.

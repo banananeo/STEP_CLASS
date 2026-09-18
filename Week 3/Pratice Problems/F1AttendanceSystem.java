@@ -1,4 +1,3 @@
-package oop.class_problems;
 
 // F1. From Procedural Mess to a Working Attendance System
 // Replaces five sets of parallel variables with one SrmStudent class.

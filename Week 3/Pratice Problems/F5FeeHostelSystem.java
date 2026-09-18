@@ -1,4 +1,3 @@
-package oop.class_problems;
 
 // F5. Capstone: A Small Fee + Hostel Management Mini-System
 // Composition (student HAS-A fee account and HAS-A room) + inheritance + null safety.

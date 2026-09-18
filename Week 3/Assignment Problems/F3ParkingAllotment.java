@@ -1,4 +1,3 @@
-package oop.assignment_problems;
 
 // F3. Object References, Null Safety, and a Mutating Method
 // Null-safe parking slot allotment that can never throw NullPointerException.

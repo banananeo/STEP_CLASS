@@ -1,4 +1,3 @@
-package oop.class_problems;
 
 // F2. Extending FeeAccount Without Touching It
 // New account types are added via inheritance; FeeAccount is never edited.

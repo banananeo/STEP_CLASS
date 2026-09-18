@@ -1,4 +1,3 @@
-package oop.assignment_problems;
 
 // F2. Extending Employee Without Touching It
 // ManagerEmployee and InternEmployee extend a tested Employee class as-is.
